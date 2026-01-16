@@ -1,6 +1,6 @@
-# **NOTE:** These are questions and answers from various cryptography exams. Take a look, they might help! If you see anything wrong, please let me know so I can correct it. Finally, ad3oulna m3akom! 🙏 
+# **NOTE:** These are questions and answers from various cryptography exams. Take a look, they might help! If you see anything wrong, please let me know so I can correct it. Finally, ad3oulna m3akom! 
 
-# > **Also, a big shoutout to the legendary** <span style="color: #ff6b6b; font-size: 1.2em; font-weight: bold;">Mamoun Bilal</span> **who shared the exams!** 🌟 
+# > **Also, a big shoutout to the legendary** <span style="color: #ff6b6b; font-size: 1.2em; font-weight: bold;">Mamoun Bilal</span> **who shared the exams!** 
 
 # Questions de Cours - Cryptographie
 
