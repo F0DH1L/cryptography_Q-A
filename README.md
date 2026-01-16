@@ -1,3 +1,5 @@
+**NOTE:** These are questions and answers from various cryptography exams. Take a look, they might help! If you see anything wrong, please let me know so I can correct it. Finally, ad3oulna m3akom!
+
 # Questions de Cours - Cryptographie
 
 ## Question 1
